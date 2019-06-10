@@ -27,8 +27,8 @@ author: GaryKim
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'https://TaeKyoungKim.github.io'
-baseurl: '/feeling-responsive'
+url: 'https://TaeKyoungKim.github.io/TaeKyoungKim'
+baseurl: '/_post'
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
